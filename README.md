@@ -1,6 +1,5 @@
 # controle_acesso2
-Access control for systems using HMG and Harbour
-Controle de Acesso para sistemas desenvolvidos utilizando HMG e Harbour
+Access control for systems using HMG and Harbour Controle de Acesso para sistemas desenvolvidos utilizando HMG e Harbour
 -----
 **Harbour HMG** 
 Controle de Acesso, Cadastro de Usuários e Acessos em um sistema (CRUD)_.
